@@ -7,3 +7,11 @@
 # Conference Articles
   
   - **Perez-Lopez, C. A.**, Perez-Taborda, J. A., Riascos, H., & Avila, A. (2020). The influence of pulsed laser ablation in liquids parameters on the synthesis of ZnO nanoparticles. In Journal of Physics: Conference Series (Vol. 1541, Issue 1, p. 012019). IOP Publishing. [10.1088/1742-6596/1541/1/012019](https://doi.org/10.1088/1742-6596/1541/1/012019)
+
+# Oral Presentations
+  - **Pérez-López C. A.** "Nuevas perspectivas en fuentes de energía para IoTs y Wearables", Seminario IELE, departamento de Ingeniería Eléctrica y Electrónica, Universidad de los Andes, april 2021.
+  - **Pérez-López C. A.** "Nanogeneradores piezoeléctricos: Una alternativa a un futuro dependiente de las baterías", “Semana Nacional de la Ingeniería Física - 2020” nov 2020.
+  - **Pérez-López C. A.** "Size-tuneable ZnO NPs synthesis by laser ablation in liquids for energy harvesting applications",  "Virtual Symposium in Plant Omics Sciences"  nov 2020.
+
+# Software
+  - **Pérez-López C. A.**, JA.Perez-Taborda, Avila A. AITAAVAPP 1.0. DIRECCION NACIONAL DE DERECHO DE AUTOR. (2020)
