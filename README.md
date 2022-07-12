@@ -1,4 +1,4 @@
-[Scientific Production]({% /Publications.html %}) |
+[Scientific Production](https://ca-perez.github.io/Publications.html) |
 
 ## Just holding this here for guidance
 
