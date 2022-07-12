@@ -1,4 +1,4 @@
-[Scientific Production](https://ca-perez.github.io/Publications.html) |
+[Home](https://ca-perez.github.io/) | [Scientific Production](https://ca-perez.github.io/Publications.html) |
 
 ## Just holding this here for guidance
 
