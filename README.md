@@ -1,3 +1,4 @@
+[Scientific Production]({% /Publications.html %}) |
 
 ## Just holding this here for guidance
 
