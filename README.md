@@ -1,5 +1,19 @@
 [Home](https://ca-perez.github.io/) - [Scientific Production](https://ca-perez.github.io/Publications.html) -
 
+# Recommended books
+
+**Reading now**
+
+  - The Three-Body Problem by Liu Cixin
+
+**Past reads**
+
+  - How To: Absurd Scientific Advice for Common Real-World by Randall Munroe
+
+**To read**
+  
+  - There Is No Antimemetics Division by qntm
+
 ## Just holding this here for guidance
 
 testing?
